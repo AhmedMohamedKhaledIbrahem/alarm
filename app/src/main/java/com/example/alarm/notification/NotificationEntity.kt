@@ -1,4 +1,4 @@
-package com.example.alarm
+package com.example.alarm.notification
 
 import android.os.Parcelable
 import kotlinx.parcelize.Parcelize

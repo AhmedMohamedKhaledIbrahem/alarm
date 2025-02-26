@@ -1,9 +1,10 @@
-package com.example.alarm
+package com.example.alarm.notification
 
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.content.Context
 import androidx.core.app.NotificationCompat
+import com.example.alarm.R
 import dagger.hilt.android.qualifiers.ApplicationContext
 import javax.inject.Inject
 

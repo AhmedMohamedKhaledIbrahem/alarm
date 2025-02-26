@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Alarm</string>
+    <string name="dialog_message">To ensure you never miss an important reminder,\nthis feature uses your device\'s alarm clock.\nOn Android 10 and 11, alarms require your permission to function properly.</string>
+    <string name="Enable_Reminder">Enable</string>
+    <string name="cancel">cancel</string>
+    <string name="Enable_Reminder_Feature">Enable Reminder Feature</string>
 </resources>
